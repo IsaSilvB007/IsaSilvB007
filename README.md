@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 👋📚
 
-<!--
-**IsaSilvB007/IsaSilvB007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Isadora Bispo
 
-Here are some ideas to get you started:
+- Estou atualmente estudando e buscando enriqueccer o meu futuro currículo profissional.
+- Eu estou cursando a 3ª série do Ensino Médio.
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Você pode entrar em contato comigo 📫
+
+- *Email:* isadorasilva4557@gmail.com
+
+
+
+![](https://media1.tenor.com/m/qNn0J4VICV4AAAAC/peac.gif)
