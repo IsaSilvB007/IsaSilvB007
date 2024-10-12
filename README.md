@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">• Me chamo Isadora Bispo<br>• Sou estudante do Ensino Médio<br>• Atualmente estudo Programação, pois almojo seguir na carreira da Tecnologia</p>
+<p align="left">• Me chamo Isadora Bispo<br>• Sou estudante do Ensino Médio<br>• Atualmente estudo Programação, pois almejo seguir na carreira da Tecnologia</p>
 
 ###
 
