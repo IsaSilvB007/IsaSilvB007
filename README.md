@@ -1,4 +1,4 @@
-<h2 align="left">Olá, sejam bem vindo(a)s ao meu GitHub ✨😁</h2>
+<h2 align="left">Olá, sejam bem vindo(a)s ao meu GitHub :)</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Minhas Estatísticas 📈📊</h2>
+<h2 align="left">Minhas Estatísticas</h2>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">Tecnologias que utilizo diariamente ⏰📁</h2>
+<h2 align="left">Tecnologias que utilizo diariamente</h2>
 
 ###
 
@@ -32,13 +32,17 @@
 
 ###
 
-<h2 align="left">Opções de contato 📫🔎📧</h2>
+<h2 align="left">Opções de contato</h2>
 
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://www.linkedin.com/in/isadora-silva-1b652b284/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/isasilva_b007/?hl=pt-br" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
   <a href="https://discord.com/channels/@me" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
@@ -46,7 +50,7 @@
 
 ###
 
-<h2 align="left">Agradeço pela Atenção !!! ❤📚</h2>
+<h2 align="left">Agradeço pela Atenção !!!</h2>
 
 ###
 
