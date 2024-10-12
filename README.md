@@ -1,4 +1,4 @@
-<h2 align="left">Olá, sejam bem vindo(a)s ao meu GitHub :)</h2>
+<h2 align="left">Olá, sejam bem vindo(a)s ao meu GitHub ✨😁</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Minhas Estatísticas</h2>
+<h2 align="left">Minhas Estatísticas 📈📊</h2>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">Tecnologias que utilizo diariamente</h2>
+<h2 align="left">Tecnologias que utilizo diariamente ⏰📁</h2>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<h2 align="left">Opções de contato</h2>
+<h2 align="left">Opções de contato 📫🔎📧</h2>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h2 align="left">Agradeço pela Atenção !!!</h2>
+<h2 align="left">Agradeço pela Atenção !!! ❤📚</h2>
 
 ###
 
@@ -55,9 +55,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/IsaSilvB007/IsaSilvB007/output/snake.svg" alt="Snake animation" />
-
-###
- 
- 
