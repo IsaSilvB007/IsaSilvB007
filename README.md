@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">• Me chamo Isadora Bispo<br>• Sou uma recém formada do Ensino Médio<br>• Atualmente estudo Programação, pois almejo seguir na carreira da Tecnologia</p>
+<p align="left">• Me chamo Isadora Bispo<br>• Sou uma recém formada do Ensino Médio<br>• Estou no 1° Semestre de Análise e Desenvolvimento de Sistemas na Fatec<br>• Atualmente estudo Programação, pois almejo seguir na carreira da Tecnologia</p>
 
 ###
 
