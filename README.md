@@ -31,10 +31,6 @@
 ## 📊 Estatísticas e Conquistas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaSilvB007&theme=nightowl&hide_border=true" alt="IsaSilvB007's GitHub Streak" width="49%" />
-</p>
-
-<p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=IsaSilvB007&theme=nightowl&radius=10" alt="IsaSilvB007's Activity Graph" />
 </p>
 
