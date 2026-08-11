@@ -20,7 +20,7 @@
 
 ## 🧠 Áreas em que estou focada
 
-☕ Desenvolvimento Backend com Java
+☕ Desenvolvimento Backend com Java  
 🧩 Programação Orientada a Objetos (POO)  
 🗄️ Bancos de Dados Relacionais (MySQL & SQL)  
 ⚡ Lógica de Programação, Algoritmos e Estruturas de Dados  
