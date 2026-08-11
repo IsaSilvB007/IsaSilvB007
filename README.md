@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Seja bem-vindo(a) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> Me chamo Isadora Bispo</h1>
-<h3 align="center">Estudante de ADS na Fatec | Em evolução na área de Programação</h3>
+<h3 align="center">Estudante de ADS na Fatec | Foco em Desenvolvimento Backend com Java</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=IsaSilvB007">
@@ -9,42 +9,52 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=200&section=header&text=Isadora%20Bispo&fontSize=40&fontColor=ffffff" alt="Banner" width="100%" />
 
+
 ## 📌 Sobre Mim
 
-- Oi! Eu sou a Isadora Bispo, estudante de Análise e Desenvolvimento de Sistemas na Fatec.
-- Atualmente estou focada em fortalecer minha base em programação, lógica e desenvolvimento de projetos práticos.
-- Estou construindo meu caminho na tecnologia com aprendizado contínuo e evolução diária 🚀
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Fatec Ribeirão Preto.  
+- 💼 Experiência prévia em TI com suporte, parametrização de sistemas ERP e validação de regras de negócio.
+- 🎯 Foco de Carreira: Desenvolvimento Backend (Java, Programação Orientada a Objetos e Bancos de Dados Relacionais).
+
 
 
 ## 🧠 Áreas em que estou focada
 
-📄 Lógica de Programação e Algoritmos  
-📚 Estruturas de Dados  
-💻 C++ na faculdade  
-🌐 Projetos Web com HTML e CSS  
-🔧 Git e GitHub para organização de projetos  
+☕ Desenvolvimento Backend com Java
+🧩 Programação Orientada a Objetos (POO)  
+🗄️ Bancos de Dados Relacionais (MySQL & SQL)  
+⚡ Lógica de Programação, Algoritmos e Estruturas de Dados  
+🛠️ Versionamento e Organização de Projetos com Git & GitHub 
 
 
 
 ## 📊 Estatísticas e Conquistas do GitHub
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=IsaSilvB007&theme=nightowl&hide_border=true&cache_seconds=86400" alt="IsaSilvB007's GitHub Streak" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaSilvB007&theme=nightowl&hide_border=true" alt="IsaSilvB007's GitHub Streak" width="49%" />
 </p>
+
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=IsaSilvB007&theme=nightowl&radius=10" alt="IsaSilvB007's Activity Graph" />
 </p>
 
 
-## 🛠️ Tecnologias e Ferramentas
 
-> ## Linguagens de Programação
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /></p>
+### 🛠️ Tecnologias e Ferramentas
 
-> ## Frontend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /></p>
+#### Linguagens de Programação
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-> ## Ferramentas
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
+#### Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Ferramentas & IDEs
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🔗 Entre em Contato!
 <p align="center"><a href="www.linkedin.com/in/isadora-bispo-dev" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:isadorasilva4557@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
